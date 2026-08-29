@@ -12,6 +12,17 @@ description: >-
   company. As of this enrichment pass the company operates a marketing and
   demo-request website but publishes no public developer API, SDK, documentation
   portal, or machine-readable API surface.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
